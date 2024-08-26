@@ -10,9 +10,9 @@
 ## 🛠 Skills
 
 ### Front-End Development
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React, Angular, Vue.js
-- **Design:** Responsive Design, UX/UI Principles, Figma, Adobe XD
+- **Languages:** JavaScript
+- **Frameworks/Libraries:** React,Next, Three js
+- **Design:** Responsive Design, UX/UI, Figma
 - **Tools:** VSCode, Chrome DevTools, Webpack, Babel
 
 ### Flutter Development
